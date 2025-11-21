@@ -1,5 +1,6 @@
 #include <iostream>
-#include "Point.cpp"
+#include <random>
+#include "Point.h"
 
 using std::cout;
 
